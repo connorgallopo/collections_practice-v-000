@@ -17,3 +17,5 @@ end
 
 def reverse_array(array)
   array_r = array.reverse
+  array_r
+end
